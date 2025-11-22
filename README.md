@@ -4,7 +4,7 @@
 
 IdeaForge is an AI-powered "Co-Founder" that interviews you about your app idea, helps you refine it, and automatically generates professional-grade documentation including a **Product Requirements Document (PRD)**, **Design System Guide**, and **Technical Specifications**.
 
-![IdeaForge Demo](https://placehold.co/1200x600/1e293b/ffffff?text=IdeaForge+Preview)
+![IdeaForge Preview](ideaforge.png)
 
 ## ✨ Key Features
 
@@ -15,7 +15,7 @@ IdeaForge is an AI-powered "Co-Founder" that interviews you about your app idea,
     -   **Design Guide**: Color palettes, typography choices, and UI component recommendations based on your brand vibe.
     -   **Tech Specs**: Recommended stack, database schema, API endpoints, and security considerations.
 -   **📜 Interview Log**: Keeps a full transcript of your brainstorming session for future reference.
--   **📋 Copy-Ready Markdown**: All artifacts are generated in clean Markdown, ready to be copied into Notion, GitHub, or Jira.
+-   **📋 Copy-Ready Markdown**: All artifacts are generated in clean Markdown, ready to be copied into Notion, GitHub, Jira or directly intoyour favorite AI assistant.
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ IdeaForge is an AI-powered "Co-Founder" that interviews you about your app idea,
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/ideaforge.git
+    git clone https://github.com/mrorigo/ideaforge.git
     cd ideaforge
     ```
 
@@ -73,6 +73,10 @@ IdeaForge is an AI-powered "Co-Founder" that interviews you about your app idea,
 -   **Icons**: [Lucide React](https://lucide.dev/)
 -   **AI Integration**: OpenAI API
 -   **Markdown Rendering**: `react-markdown`
+
+## Acknowledgments
+
+Built using [Google Antigravity](https://antigravity.google/)
 
 ## 🤝 Contributing
 
